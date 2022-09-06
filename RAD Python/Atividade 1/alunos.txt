@@ -1,0 +1,8 @@
+nome:Ricardo Luiz;email:riluz@hotmail.com;curso:Cinema;
+nome:Mateus Brazil De Oliveira;email:brasil@hotmail.com;curso:Engenharia Da Computacao;
+nome:Lucas Ribeiro Silva;email:lucas.ribs@yahoo.com.br;curso:Administracao;
+nome:Mateus Oliveira Brazil;email:brazil@yahoo.com.br;curso:Ciencias Da Computacao;
+nome:Abcdeg;email:abcdeg@gov.br;curso:Cinema;
+nome:Hugo Alves;email:hugo_alves@gmail.com;curso:Odontologia;
+nome:Hugo Menezes;email:hugomen@local.com.br;curso:Logistica;
+nome:Alex Santos Alves;email:alex_2020@uol.com.br;curso:Farmacologia;
